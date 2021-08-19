@@ -6,7 +6,7 @@ function getPin() {
     }
     else {
        
-        return getPin;
+        return getPin();
     }
 }
 
